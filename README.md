@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jacobemmanuel
-- 🌱 I’m currently learning ...python 
+- 👋 Hi, I’m jacobemmanuel
+- 🌱 I’m currently learning Cybersecurity
 - 😄 Pronouns: ...he/him
 
 <!---
