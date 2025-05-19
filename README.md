@@ -1,6 +1,5 @@
 - 👋 Hi, I’m jacobemmanuel
-- 🌱 I’m currently learning Cybersecurity
-- 😄 Pronouns: ...he/him
+- 🌱 I’m currently learning Java
 
 <!---
 jacobemmanuel72/jacobemmanuel72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
