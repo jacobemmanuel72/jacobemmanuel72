@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jacobemmanuel
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Fullstack DEvelopment and Java
 
 <!---
 jacobemmanuel72/jacobemmanuel72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
